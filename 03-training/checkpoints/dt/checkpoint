@@ -1,0 +1,6 @@
+model_checkpoint_path: "dt-4349"
+all_model_checkpoint_paths: "dt-1000"
+all_model_checkpoint_paths: "dt-2000"
+all_model_checkpoint_paths: "dt-3000"
+all_model_checkpoint_paths: "dt-4000"
+all_model_checkpoint_paths: "dt-4349"
